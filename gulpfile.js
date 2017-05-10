@@ -9,6 +9,7 @@ var taskConfig = {
 			'classnames',
 			'react-input-autosize',
 			'react',
+			'create-react-class',
 			'react-dom'
 		],
 		less: {
